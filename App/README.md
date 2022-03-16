@@ -7,10 +7,10 @@ VIDEO DEMO BELOW
 
 [![VIDEO DEMO](https://img.youtube.com/vi/TYBb0LHZoEI/0.jpg)](https://www.youtube.com/watch?v=TYBb0LHZoEI)
 
-### Quick Setup
+## Quick Setup
 Download the project and open it in Android Studio. Use a Virtual Machine or your android phone to run it.
 
-### Compatibility
+## Compatibility
 Target SDK version - 29 <br>
 Minimum SDK version - 21 <br>
 Gradle version - 4.1.3 <br>
